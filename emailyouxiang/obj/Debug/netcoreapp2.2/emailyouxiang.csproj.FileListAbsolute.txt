@@ -1,0 +1,11 @@
+D:\code\emailyouxiang\bin\Debug\netcoreapp2.2\emailyouxiang.deps.json
+D:\code\emailyouxiang\bin\Debug\netcoreapp2.2\emailyouxiang.runtimeconfig.json
+D:\code\emailyouxiang\bin\Debug\netcoreapp2.2\emailyouxiang.runtimeconfig.dev.json
+D:\code\emailyouxiang\bin\Debug\netcoreapp2.2\emailyouxiang.dll
+D:\code\emailyouxiang\bin\Debug\netcoreapp2.2\emailyouxiang.pdb
+D:\code\emailyouxiang\obj\Debug\netcoreapp2.2\emailyouxiang.csproj.CoreCompileInputs.cache
+D:\code\emailyouxiang\obj\Debug\netcoreapp2.2\emailyouxiang.AssemblyInfoInputs.cache
+D:\code\emailyouxiang\obj\Debug\netcoreapp2.2\emailyouxiang.AssemblyInfo.cs
+D:\code\emailyouxiang\obj\Debug\netcoreapp2.2\emailyouxiang.dll
+D:\code\emailyouxiang\obj\Debug\netcoreapp2.2\emailyouxiang.pdb
+D:\code\emailyouxiang\obj\Debug\netcoreapp2.2\emailyouxiang.csprojAssemblyReference.cache
